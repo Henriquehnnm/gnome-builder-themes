@@ -43,14 +43,14 @@ Sinta-se livre! Fork o projeto, crie sua pasta em `Themes/`, adicione os arquivo
 
 ## Licença
 
-Este projeto está licenciado sob a **MIT License**.  
+Este projeto está licenciado sob a **GPLv3 License**.  
 Você pode usar, modificar e redistribuir como quiser.
 
 ---
 
 ## Autor
 
-Feito por [Henrique](https://github.com/seu-user)  
+Feito por [Henrique](https://github.com/Henriquehnnm)  
 Me siga para mais temas e projetos open source.
 
 ---
