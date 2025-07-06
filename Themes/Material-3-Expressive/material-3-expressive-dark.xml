@@ -7,7 +7,7 @@
     <property name="terminal-palette">material-3-expressive-dark</property>
   </metadata>
 
-  <!-- Cores principais do Material Design 3 Expressive Dark -->
+  <!-- Cores principais do Material Design 3 Expressive Dark - Paleta Oficial -->
   <color name="Foreground" value="#e8def8"/>
   <color name="Background" value="#1c1b1f"/>
   <color name="Cursor" value="#d0bcff"/>
@@ -36,7 +36,7 @@
   <style name="search-match" background="Color3" foreground="Background"/>
   <style name="line-numbers" background="Background" foreground="#938f99"/>
   <style name="current-line" background="CurrentLine"/>
-  <style name="current-line-number" background="CurrentLine" foreground="#cac4d0"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#e8def8"/>
   <style name="right-margin" foreground="Foreground" background="Gutter"/>
 
   <!-- Estilos de sintaxe -->

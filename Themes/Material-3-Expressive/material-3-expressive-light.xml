@@ -7,7 +7,7 @@
     <property name="terminal-palette">material-3-expressive-light</property>
   </metadata>
 
-  <!-- Cores principais do Material Design 3 Expressive Light -->
+  <!-- Cores principais do Material Design 3 Expressive Light - Paleta Oficial -->
   <color name="Foreground" value="#1c1b1f"/>
   <color name="Background" value="#fffbfe"/>
   <color name="Cursor" value="#6750a4"/>
