@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Oxocarbon Light Theme - Tema minimalista inspirado no carbono -->
+<style-scheme id="oxocarbon-light" name="Oxocarbon Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">oxocarbon-dark</property>
+    <property name="terminal-palette">oxocarbon-light</property>
+  </metadata>
+
+  <!-- Cores principais do Oxocarbon Light -->
+  <color name="Foreground" value="#161618"/>
+  <color name="Background" value="#f2f2f2"/>
+  <color name="Cursor" value="#78a9ff"/>
+  <color name="Gutter" value="#f2f2f2"/>
+  <color name="CurrentLine" value="#e8e8e8"/>
+  <color name="Color0" value="#f2f2f2"/>
+  <color name="Color1" value="#ff7eb6"/>
+  <color name="Color2" value="#41d6c3"/>
+  <color name="Color3" value="#fede5d"/>
+  <color name="Color4" value="#78a9ff"/>
+  <color name="Color5" value="#be95ff"/>
+  <color name="Color6" value="#ff65ab"/>
+  <color name="Color7" value="#161618"/>
+  <color name="Color8" value="#6e6b6e"/>
+  <color name="Color9" value="#ff7eb6"/>
+  <color name="Color10" value="#41d6c3"/>
+  <color name="Color11" value="#fede5d"/>
+  <color name="Color12" value="#78a9ff"/>
+  <color name="Color13" value="#be95ff"/>
+  <color name="Color14" value="#ff65ab"/>
+  <color name="Color15" value="#161618"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#6e6b6e"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#161618"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#6e6b6e"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 

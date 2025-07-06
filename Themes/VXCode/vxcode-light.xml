@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- VXCode Light Theme - Baseado na paleta oficial do VXCode -->
+<style-scheme id="vxcode-light" name="VXCode Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">vxcode-dark</property>
+    <property name="terminal-palette">vxcode-light</property>
+  </metadata>
+
+  <!-- Cores principais do VXCode Light -->
+  <color name="Foreground" value="#1c1c1c"/>
+  <color name="Background" value="#ffffff"/>
+  <color name="Cursor" value="#ff8787"/>
+  <color name="Gutter" value="#ffffff"/>
+  <color name="CurrentLine" value="#f5f5f5"/>
+  <color name="Color0" value="#ffffff"/>
+  <color name="Color1" value="#d73a49"/>
+  <color name="Color2" value="#28a745"/>
+  <color name="Color3" value="#e36209"/>
+  <color name="Color4" value="#0366d6"/>
+  <color name="Color5" value="#6f42c1"/>
+  <color name="Color6" value="#17a2b8"/>
+  <color name="Color7" value="#1c1c1c"/>
+  <color name="Color8" value="#6a737d"/>
+  <color name="Color9" value="#d73a49"/>
+  <color name="Color10" value="#28a745"/>
+  <color name="Color11" value="#e36209"/>
+  <color name="Color12" value="#0366d6"/>
+  <color name="Color13" value="#6f42c1"/>
+  <color name="Color14" value="#17a2b8"/>
+  <color name="Color15" value="#1c1c1c"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color2" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#6a737d"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#1c1c1c"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#6a737d"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 

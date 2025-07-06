@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Material Design 3 Expressive Light Theme - Baseado na paleta oficial do Material Design 3 -->
+<style-scheme id="material-3-expressive-light" name="Material Design 3 Expressive Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">material-3-expressive-dark</property>
+    <property name="terminal-palette">material-3-expressive-light</property>
+  </metadata>
+
+  <!-- Cores principais do Material Design 3 Expressive Light -->
+  <color name="Foreground" value="#1c1b1f"/>
+  <color name="Background" value="#fffbfe"/>
+  <color name="Cursor" value="#6750a4"/>
+  <color name="Gutter" value="#fffbfe"/>
+  <color name="CurrentLine" value="#f3f2f5"/>
+  <color name="Color0" value="#fffbfe"/>
+  <color name="Color1" value="#ba1a1a"/>
+  <color name="Color2" value="#006c51"/>
+  <color name="Color3" value="#ae1241"/>
+  <color name="Color4" value="#3d5aa9"/>
+  <color name="Color5" value="#6750a4"/>
+  <color name="Color6" value="#8b5cf6"/>
+  <color name="Color7" value="#1c1b1f"/>
+  <color name="Color8" value="#49454f"/>
+  <color name="Color9" value="#ba1a1a"/>
+  <color name="Color10" value="#006c51"/>
+  <color name="Color11" value="#ae1241"/>
+  <color name="Color12" value="#3d5aa9"/>
+  <color name="Color13" value="#6750a4"/>
+  <color name="Color14" value="#8b5cf6"/>
+  <color name="Color15" value="#1c1b1f"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#49454f"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#1c1b1f"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#49454f"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 

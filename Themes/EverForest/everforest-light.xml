@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Everforest Light Theme - Baseado na paleta Everforest -->
+<style-scheme id="everforest-light" name="Everforest Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">everforest-dark</property>
+    <property name="terminal-palette">everforest-light</property>
+  </metadata>
+
+  <!-- Cores principais do Everforest Light - Paleta Oficial -->
+  <color name="Foreground" value="#5c6a72"/>
+  <color name="Background" value="#fdf6e3"/>
+  <color name="Cursor" value="#8f5a5a"/>
+  <color name="Gutter" value="#fdf6e3"/>
+  <color name="CurrentLine" value="#f3efcd"/>
+  <color name="Color0" value="#fdf6e3"/>
+  <color name="Color1" value="#f85552"/>
+  <color name="Color2" value="#8f5a5a"/>
+  <color name="Color3" value="#dfa000"/>
+  <color name="Color4" value="#3a94c5"/>
+  <color name="Color5" value="#df69ba"/>
+  <color name="Color6" value="#35a77c"/>
+  <color name="Color7" value="#5c6a72"/>
+  <color name="Color8" value="#a6b0a0"/>
+  <color name="Color9" value="#f85552"/>
+  <color name="Color10" value="#8f5a5a"/>
+  <color name="Color11" value="#dfa000"/>
+  <color name="Color12" value="#3a94c5"/>
+  <color name="Color13" value="#df69ba"/>
+  <color name="Color14" value="#35a77c"/>
+  <color name="Color15" value="#2d353b"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#7a8478"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#5c6a72"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#a6b0a0"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 
