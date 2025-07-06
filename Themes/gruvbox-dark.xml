@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este arquivo foi gerado a partir do Monokai Soda, adaptado para a paleta Gruvbox Dark -->
+<style-scheme id="gruvbox-dark" name="Gruvbox Dark" version="1.0">
+
+  <metadata>
+    <property name="variant">dark</property>
+    <property name="light-variant">gruvbox-light</property>
+    <property name="terminal-palette">gruvbox-dark</property>
+  </metadata>
+
+  <color name="Foreground" value="#ebdbb2"/>
+  <color name="Background" value="#282828"/>
+  <color name="Cursor" value="#ebdbb2"/>
+  <color name="Gutter" value="#504945"/>
+  <color name="CurrentLine" value="#3c3836"/>
+  <color name="Color0" value="#282828"/>
+  <color name="Color1" value="#cc241d"/>
+  <color name="Color2" value="#98971a"/>
+  <color name="Color3" value="#d79921"/>
+  <color name="Color4" value="#458588"/>
+  <color name="Color5" value="#b16286"/>
+  <color name="Color6" value="#689d6a"/>
+  <color name="Color7" value="#a89984"/>
+  <color name="Color8" value="#928374"/>
+  <color name="Color9" value="#fb4934"/>
+  <color name="Color10" value="#b8bb26"/>
+  <color name="Color11" value="#fabd2f"/>
+  <color name="Color12" value="#83a598"/>
+  <color name="Color13" value="#d3869b"/>
+  <color name="Color14" value="#8ec07c"/>
+  <color name="Color15" value="#ebdbb2"/>
+
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="Gutter"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color5"/>
+  <style name="def:character" foreground="Color5"/>
+  <style name="def:comment" foreground="#928374"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color2"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color5"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Aura Theme Dark - Adaptado para GNOME Builder -->
+<style-scheme id="aura-dark" name="Aura Dark" version="1.0">
+  <metadata>
+    <property name="variant">dark</property>
+    <property name="light-variant">aura-light</property>
+    <property name="terminal-palette">aura-dark</property>
+  </metadata>
+
+  <color name="Foreground" value="#edecee"/>
+  <color name="Background" value="#15141b"/>
+  <color name="Cursor" value="#ff6767"/>
+  <color name="Gutter" value="#29263c"/>
+  <color name="CurrentLine" value="#3d375e7f"/>
+  <color name="Color0" value="#15141b"/>
+  <color name="Color1" value="#ff6767"/>
+  <color name="Color2" value="#61ffca"/>
+  <color name="Color3" value="#ffca85"/>
+  <color name="Color4" value="#82e2ff"/>
+  <color name="Color5" value="#a277ff"/>
+  <color name="Color6" value="#f694ff"/>
+  <color name="Color7" value="#edecee"/>
+  <color name="Color8" value="#6d6d6d"/>
+  <color name="Color9" value="#ff6767"/>
+  <color name="Color10" value="#61ffca"/>
+  <color name="Color11" value="#ffca85"/>
+  <color name="Color12" value="#82e2ff"/>
+  <color name="Color13" value="#a277ff"/>
+  <color name="Color14" value="#f694ff"/>
+  <color name="Color15" value="#ffffff"/>
+
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#2b283c"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#9c9c9e"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#6d6d6d"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color5"/>
+
+</style-scheme> 

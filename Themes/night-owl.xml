@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este arquivo foi gerado a partir do Monokai Soda, adaptado para a paleta Night Owl -->
+<style-scheme id="night-owl" name="Night Owl" version="1.0">
+  <metadata>
+    <property name="variant">dark</property>
+    <property name="terminal-palette">night-owl</property>
+  </metadata>
+  <color name="Foreground" value="#d6deeb"/>
+  <color name="Background" value="#011627"/>
+  <color name="Cursor" value="#80a4c2"/>
+  <color name="Gutter" value="#1d3b53"/>
+  <color name="CurrentLine" value="#010e1a"/>
+  <color name="Color0" value="#011627"/>
+  <color name="Color1" value="#ef5350"/>
+  <color name="Color2" value="#22da6e"/>
+  <color name="Color3" value="#addb67"/>
+  <color name="Color4" value="#82aaff"/>
+  <color name="Color5" value="#c792ea"/>
+  <color name="Color6" value="#21c7a8"/>
+  <color name="Color7" value="#d6deeb"/>
+  <color name="Color8" value="#7c858c"/>
+  <color name="Color9" value="#ef5350"/>
+  <color name="Color10" value="#22da6e"/>
+  <color name="Color11" value="#addb67"/>
+  <color name="Color12" value="#82aaff"/>
+  <color name="Color13" value="#c792ea"/>
+  <color name="Color14" value="#21c7a8"/>
+  <color name="Color15" value="#ffffff"/>
+
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="Gutter"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color5"/>
+  <style name="def:character" foreground="Color5"/>
+  <style name="def:comment" foreground="#5f7e97"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color2"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color5"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 

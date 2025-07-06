@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="shades-of-purple" name="Shades of Purple" version="1.0">
+  <metadata>
+    <property name="variant">dark</property>
+    <property name="terminal-palette">shades-of-purple</property>
+  </metadata>
+  <color name="Foreground" value="#f8f8f2"/>
+  <color name="Background" value="#2d2b55"/>
+  <color name="Cursor" value="#fad000"/>
+  <color name="Gutter" value="#23214a"/>
+  <color name="CurrentLine" value="#393267"/>
+  <color name="Color0" value="#2d2b55"/>
+  <color name="Color1" value="#ff628c"/>
+  <color name="Color2" value="#a5ff90"/>
+  <color name="Color3" value="#fad000"/>
+  <color name="Color4" value="#9effff"/>
+  <color name="Color5" value="#b362ff"/>
+  <color name="Color6" value="#f8f8f2"/>
+  <color name="Color7" value="#a599e9"/>
+  <color name="Color8" value="#565575"/>
+  <color name="Color9" value="#ff9d00"/>
+  <color name="Color10" value="#3ad900"/>
+  <color name="Color11" value="#ffee80"/>
+  <color name="Color12" value="#fb94ff"/>
+  <color name="Color13" value="#ff7200"/>
+  <color name="Color14" value="#faefa5"/>
+  <color name="Color15" value="#ffffff"/>
+
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#b362ff"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#ffee80"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#b362ff"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color5"/>
+</style-scheme> 
