@@ -44,7 +44,6 @@ Sinta-se livre! Fork o projeto, crie sua pasta em `Themes/`, adicione os arquivo
 ## Licença
 
 Este projeto está licenciado sob a **GPLv3 License**.  
-Você pode usar, modificar e redistribuir como quiser.
 
 ---
 
