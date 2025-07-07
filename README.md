@@ -8,15 +8,6 @@ Todos os temas estão no formato `.xml` e seguem o padrão visual do GNOME Build
 
 ---
 
-## Estrutura dos Temas
-
-Cada tema possui:
-- Um arquivo `.xml` com a definição do tema;
-- Uma imagem `screenshot.png` para referência visual;
-- Um `readme.md` explicando os detalhes do tema (instalação, cores, etc).
-
----
-
 ## Como instalar
 
 1. Clone este repositório:
