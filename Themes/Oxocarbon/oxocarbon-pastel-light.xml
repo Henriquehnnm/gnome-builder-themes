@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Oxocarbon Light Theme - 100% fiel à paleta base16 oficial -->
-<style-scheme id="oxocarbon-light" name="Oxocarbon Light" version="1.0">
+<!-- Oxocarbon Pastel Light Theme - Fundo original, sintaxe pastel -->
+<style-scheme id="oxocarbon-pastel-light" name="Oxocarbon Pastel Light" version="1.0">
   <metadata>
     <property name="variant">light</property>
-    <property name="dark-variant">oxocarbon-dark</property>
-    <property name="terminal-palette">oxocarbon-light</property>
+    <property name="dark-variant">oxocarbon-pastel-dark</property>
+    <property name="terminal-palette">oxocarbon-pastel-light</property>
   </metadata>
 
-  <!-- Paleta base16 Oxocarbon Light -->
+  <!-- Fundo igual ao original -->
   <color name="Foreground" value="#21272a"/>
   <color name="Background" value="#f2f4f8"/>
-  <color name="Cursor" value="#78a9ff"/>
+  <color name="Cursor" value="#a3c9ff"/>
   <color name="Gutter" value="#f2f4f8"/>
   <color name="CurrentLine" value="#dde1e6"/>
   <color name="Color0" value="#f2f4f8"/>
@@ -20,15 +20,16 @@
   <color name="Color4" value="#697077"/>
   <color name="Color5" value="#21272a"/>
   <color name="Color6" value="#161616"/>
-  <color name="Color7" value="#08bdba"/>
-  <color name="Color8" value="#3ddbd9"/>
-  <color name="Color9" value="#78a9ff"/>
-  <color name="Color10" value="#ee5396"/>
-  <color name="Color11" value="#33b1ff"/>
-  <color name="Color12" value="#ff7eb6"/>
-  <color name="Color13" value="#42be65"/>
-  <color name="Color14" value="#be95ff"/>
-  <color name="Color15" value="#82cfff"/>
+  <!-- Sintaxe pastel -->
+  <color name="Color7" value="#a8e6cf"/>
+  <color name="Color8" value="#b2ebf2"/>
+  <color name="Color9" value="#b3cfff"/>
+  <color name="Color10" value="#f7a8b8"/>
+  <color name="Color11" value="#a7c7e7"/>
+  <color name="Color12" value="#f7b2d9"/>
+  <color name="Color13" value="#b7e7c7"/>
+  <color name="Color14" value="#d1b3ff"/>
+  <color name="Color15" value="#b3e5fc"/>
 
   <!-- Estilos básicos -->
   <style name="text" background="Background" foreground="Foreground"/>
@@ -39,11 +40,11 @@
   <style name="current-line-number" background="CurrentLine" foreground="#21272a"/>
   <style name="right-margin" foreground="Foreground" background="Gutter"/>
 
-  <!-- Estilos de sintaxe -->
+  <!-- Estilos de sintaxe pastel -->
   <style name="def:base-n-integer" foreground="Color14"/>
   <style name="def:boolean" foreground="Color13"/>
   <style name="def:character" foreground="Color12"/>
-  <style name="def:comment" foreground="#878d96"/>
+  <style name="def:comment" foreground="#b2ebf2"/>
   <style name="def:doc-comment-element" bold="true"/>
   <style name="def:constant" foreground="Color14"/>
   <style name="def:decimal" foreground="Color14"/>

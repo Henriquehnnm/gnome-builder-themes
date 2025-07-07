@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Oxocarbon Pro Light Theme - Profissional, moderno, simples, excelente sintaxe, baseado na paleta base16 Oxocarbon -->
+<style-scheme id="oxocarbon-pro-light" name="Oxocarbon Pro Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">oxocarbon-pro-dark</property>
+    <property name="terminal-palette">oxocarbon-pro-light</property>
+  </metadata>
+
+  <!-- Paleta base16 Oxocarbon Pro Light (ajustada) -->
+  <color name="Foreground" value="#23272e"/>
+  <color name="Background" value="#f3f6fa"/>
+  <color name="Cursor" value="#3b6cf6"/>
+  <color name="Gutter" value="#e5e9f0"/>
+  <color name="CurrentLine" value="#e5e9f0"/>
+  <color name="Selection" value="#c7d7f4"/>
+  <color name="Color0" value="#f3f6fa"/>
+  <color name="Color1" value="#e5e9f0"/>
+  <color name="Color2" value="#c7d7f4"/>
+  <color name="Color3" value="#b6bbc6"/>
+  <color name="Color4" value="#697077"/>
+  <color name="Color5" value="#23272e"/>
+  <color name="Color6" value="#16181c"/>
+  <color name="Color7" value="#10cfc9"/>
+  <color name="Color8" value="#3ddbd9"/>
+  <color name="Color9" value="#3b6cf6"/>
+  <color name="Color10" value="#ff5c8d"/>
+  <color name="Color11" value="#0072ff"/>
+  <color name="Color12" value="#ff7eb6"/>
+  <color name="Color13" value="#42be65"/>
+  <color name="Color14" value="#be95ff"/>
+  <color name="Color15" value="#82cfff"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color10" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#b6bbc6"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#23272e"/>
+  <style name="right-margin" foreground="#c7d7f4" background="Gutter"/>
+  <style name="selection" background="Selection"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color14"/>
+  <style name="def:boolean" foreground="Color13" bold="true"/>
+  <style name="def:character" foreground="Color12"/>
+  <style name="def:comment" foreground="#b6bbc6" italic="true"/>
+  <style name="def:doc-comment-element" bold="true" italic="true"/>
+  <style name="def:constant" foreground="Color14"/>
+  <style name="def:decimal" foreground="Color14"/>
+  <style name="def:error" underline="error" underline-color="Color10" foreground="Color10"/>
+  <style name="def:floating-point" foreground="Color14"/>
+  <style name="def:keyword" foreground="Color10" bold="true"/>
+  <style name="def:net-address" foreground="Color9" underline="low"/>
+  <style name="def:function" foreground="Color9" bold="true"/>
+  <style name="def:number" foreground="Color14"/>
+  <style name="def:preprocessor" foreground="Color12"/>
+  <style name="def:special-char" foreground="Color9"/>
+  <style name="def:string" foreground="Color11"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color13"/>
+  <style name="def:type" foreground="Color8" bold="true"/>
+
+</style-scheme> 
