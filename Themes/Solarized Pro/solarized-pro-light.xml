@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="solarized-pro-light" name="Solarized Pro Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">solarized-pro-dark</property>
+    <property name="terminal-palette">solarized-pro-light</property>
+  </metadata>
+  <color name="Foreground" value="#2a3436"/>
+  <color name="Background" value="#fcfaf3"/>
+  <color name="Cursor" value="#56b6c2"/>
+  <color name="Gutter" value="#f7f4ea"/>
+  <color name="CurrentLine" value="#f9f7f0"/>
+  <color name="Color0" value="#fcfaf3"/>
+  <color name="Color1" value="#e07a5f"/>
+  <color name="Color2" value="#81b29a"/>
+  <color name="Color3" value="#ffe066"/>
+  <color name="Color4" value="#6699cc"/>
+  <color name="Color5" value="#b294bb"/>
+  <color name="Color6" value="#56b6c2"/>
+  <color name="Color7" value="#2a3436"/>
+  <color name="Color8" value="#d2dbd2"/>
+  <color name="Color9" value="#f2856d"/>
+  <color name="Color10" value="#a3c9a8"/>
+  <color name="Color11" value="#ffe066"/>
+  <color name="Color12" value="#56b6c2"/>
+  <color name="Color13" value="#c792ea"/>
+  <color name="Color14" value="#6cb4b6"/>
+  <color name="Color15" value="#ffffff"/>
+
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#8a8a6c"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#ffe066"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#b0bec5"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color5"/>
+</style-scheme> 
