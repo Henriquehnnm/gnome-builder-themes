@@ -9,10 +9,10 @@
 
   <!-- Paleta base16 Oxocarbon Pro Dark (ajustada) -->
   <color name="Foreground" value="#f3f6fa"/>
-  <color name="Background" value="#16181c"/>
+  <color name="Background" value="#222222"/>
   <color name="Cursor" value="#7dc4fa"/>
-  <color name="Gutter" value="#181a1f"/>
-  <color name="CurrentLine" value="#23252b"/>
+  <color name="Gutter" value="#1a1a1a"/>
+  <color name="CurrentLine" value="#292929"/>
   <color name="Selection" value="#22304a"/>
   <color name="Color0" value="#16181c"/>
   <color name="Color1" value="#23252b"/>
@@ -49,7 +49,7 @@
   <style name="def:doc-comment-element" bold="true" italic="true"/>
   <style name="def:constant" foreground="Color14"/>
   <style name="def:decimal" foreground="Color14"/>
-  <style name="def:error" underline="error" underline-color="Color10" foreground="Color10"/>
+  <style name="def:error" underline="error" underline-color="Color10"/>
   <style name="def:floating-point" foreground="Color14"/>
   <style name="def:keyword" foreground="Color10" bold="true"/>
   <style name="def:net-address" foreground="Color9" underline="low"/>
