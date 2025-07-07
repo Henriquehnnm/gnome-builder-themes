@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Material Design 3 Expressive Neutral Light Theme - Versão neutra, sem accent color, baseada no material-3-expressive-light.xml -->
+<style-scheme id="material-3-expressive-neutral-light" name="Material Design 3 Expressive Neutral Light" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">material-3-expressive-neutral-dark</property>
+    <property name="terminal-palette">material-3-expressive-neutral-light</property>
+  </metadata>
+
+  <!-- Paleta neutra -->
+  <color name="Foreground" value="#232323"/>
+  <color name="Background" value="#e5e5e5"/>
+  <color name="Cursor" value="#757575"/>
+  <color name="Gutter" value="#e5e5e5"/>
+  <color name="CurrentLine" value="#cccccc"/>
+  <color name="Color0" value="#f5f5f5"/>
+  <color name="Color1" value="#ba1a1a"/>
+  <color name="Color2" value="#006c51"/>
+  <color name="Color3" value="#ae1241"/>
+  <color name="Color4" value="#3d5aa9"/>
+  <color name="Color5" value="#6750a4"/>
+  <color name="Color6" value="#8b5cf6"/>
+  <color name="Color7" value="#232323"/>
+  <color name="Color8" value="#49454f"/>
+  <color name="Color9" value="#ba1a1a"/>
+  <color name="Color10" value="#006c51"/>
+  <color name="Color11" value="#ae1241"/>
+  <color name="Color12" value="#3d5aa9"/>
+  <color name="Color13" value="#6750a4"/>
+  <color name="Color14" value="#8b5cf6"/>
+  <color name="Color15" value="#232323"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#49454f"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#232323"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe (mantidos do material-3-expressive-light.xml) -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#49454f"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 
