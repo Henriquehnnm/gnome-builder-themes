@@ -32,9 +32,9 @@
   <style name="text" background="Background" foreground="Foreground"/>
   <style name="cursor" foreground="Cursor"/>
   <style name="search-match" background="Color3" foreground="Background"/>
-  <style name="line-numbers" background="Background" foreground="#656d76"/>
+  <style name="line-numbers" background="Background" foreground="#8b949e"/>
   <style name="current-line" background="CurrentLine"/>
-  <style name="current-line-number" background="CurrentLine" foreground="#0969da"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#24292f"/>
   <style name="right-margin" foreground="Foreground" background="Gutter"/>
 
   <style name="def:base-n-integer" foreground="Color5"/>
