@@ -17,7 +17,7 @@
   <color name="Color0" value="#f3f6fa"/>
   <color name="Color1" value="#e5e9f0"/>
   <color name="Color2" value="#c7d7f4"/>
-  <color name="Color3" value="#b6bbc6"/>
+  <color name="Color3" value="#b0b4be"/>
   <color name="Color4" value="#697077"/>
   <color name="Color5" value="#23272e"/>
   <color name="Color6" value="#16181c"/>
@@ -45,7 +45,7 @@
   <style name="def:base-n-integer" foreground="Color14"/>
   <style name="def:boolean" foreground="Color13" bold="true"/>
   <style name="def:character" foreground="Color12"/>
-  <style name="def:comment" foreground="#b6bbc6" italic="true"/>
+  <style name="def:comment" foreground="#b0b4be" italic="true"/>
   <style name="def:doc-comment-element" bold="true" italic="true"/>
   <style name="def:constant" foreground="Color14"/>
   <style name="def:decimal" foreground="Color14"/>
